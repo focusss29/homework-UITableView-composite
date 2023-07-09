@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7711B1A82A5B227100339500 /* Composite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7711B1A72A5B227100339500 /* Composite.swift */; };
 		775331B32A5200D100A77716 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 775331B22A5200D100A77716 /* AppDelegate.swift */; };
 		775331B52A5200D100A77716 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 775331B42A5200D100A77716 /* SceneDelegate.swift */; };
 		775331B72A5200D100A77716 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 775331B62A5200D100A77716 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7711B1A72A5B227100339500 /* Composite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Composite.swift; sourceTree = "<group>"; };
 		775331AF2A5200D100A77716 /* homework UITableView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "homework UITableView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		775331B22A5200D100A77716 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		775331B42A5200D100A77716 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				775331B22A5200D100A77716 /* AppDelegate.swift */,
 				775331B42A5200D100A77716 /* SceneDelegate.swift */,
 				775331B62A5200D100A77716 /* ViewController.swift */,
+				7711B1A72A5B227100339500 /* Composite.swift */,
 				775331BE2A5200D200A77716 /* Assets.xcassets */,
 				775331C02A5200D200A77716 /* LaunchScreen.storyboard */,
 				775331C32A5200D200A77716 /* Info.plist */,
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7711B1A82A5B227100339500 /* Composite.swift in Sources */,
 				775331B72A5200D100A77716 /* ViewController.swift in Sources */,
 				775331B32A5200D100A77716 /* AppDelegate.swift in Sources */,
 				775331B52A5200D100A77716 /* SceneDelegate.swift in Sources */,
